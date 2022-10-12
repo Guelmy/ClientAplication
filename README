@@ -1,0 +1,4 @@
+Proyecto de android studio para la version de sdk  > 35
+Usa el patrón Vo para el modelo de datos.
+Usa una base de datos local en SQLite.
+Hecho en la version 4.1.2 de Android Studio
