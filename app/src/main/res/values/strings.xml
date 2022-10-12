@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Client App</string>
+    <!--   Buttons  -->
+    <string name="btn_add">Agregar usuario</string>
+    <string name="btn_list">Lista de usuarios</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="btn_delete">Eliminar usuario</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_add_address">Agregar dirección</string>
+
+    <!--  Txt   -->
+    <string name="txt_name">Nombre</string>
+    <string name="txt_address">Dirección</string>
+    <string name="txt_confirm_delete">Eliminar usuario</string>
+
+</resources>
